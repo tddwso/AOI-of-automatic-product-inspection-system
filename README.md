@@ -4,10 +4,10 @@
 建立一套自動化檢測產品設備，主控電腦端接收測試硬體(樹莓派)的螢幕資訊，藉由讀取螢幕資訊對測試硬體及測試機構發出執行命令，以達到無需人員作業即可完成產品檢測。
 ![image](https://github.com/tddwso/AOI-of-automatic-product-inspection-system/blob/main/%E6%9E%B6%E6%A7%8B%E5%9C%96.png)
 
+![image](https://github.com/tddwso/AOI-of-automatic-product-inspection-system/blob/main/%E6%A8%B9%E8%8E%93%E6%B4%BE%E5%9C%96.png)
 ![image](https://github.com/tddwso/AOI-of-automatic-product-inspection-system/blob/main/%E6%9E%B6%E6%A7%8B%E5%9C%96.png)
 ![image](https://github.com/tddwso/AOI-of-automatic-product-inspection-system/blob/main/%E6%9E%B6%E6%A7%8B%E5%9C%96.png)
-![image](https://github.com/tddwso/AOI-of-automatic-product-inspection-system/blob/main/%E6%9E%B6%E6%A7%8B%E5%9C%96.png)
-![image](https://github.com/tddwso/AOI-of-automatic-product-inspection-system/blob/main/%E6%9E%B6%E6%A7%8B%E5%9C%96.png)
+
 
 
 使用環境:
