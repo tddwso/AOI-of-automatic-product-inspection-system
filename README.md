@@ -1,21 +1,13 @@
 # AOI-of-automatic-product-inspection-system
-背景介紹:
-建立一套自動化檢測產品設備，主控電腦端接收測試硬體(樹莓派)的螢幕資訊，藉由讀取螢幕資訊對測試硬體及測試機構發出執行命令，以達到無需人員作業即可完成產品檢測。
-![Uploading image.png…]()
-
-
-image
 
 預計完成目標:
-以卷積神經網絡(Convolutional Neural Network)學習分辨OK及NG品。 運用Transfer Learning(遷移式學習)，將他人訓練好的(pre-trained model)參數複製過來，當作我們模型參數， 使用的模型: VGG16，VGG 是英國牛津大學 Visual Geometry Group 的縮寫，主要貢獻是使用更多的隱藏層，大量的圖片訓練，提高準確率至90%。
-
-資料集:
-Train Data : 360
+建立一套自動化檢測產品設備，主控電腦端接收測試硬體(樹莓派)的螢幕資訊，藉由讀取螢幕資訊對測試硬體及測試機構發出執行命令，以達到無需人員作業即可完成產品檢測。
+![image](https://github.com/tddwso/Uniqlo-Label-Defect-Classification-by-Deep-Learning/blob/main/%E5%88%86%E9%A1%9E%E7%85%A7.PNG)
 
 使用環境:
-Python 3.8
+Visual Studio 2019
 
-TensorFlow 2.3.1
+樹莓派4 
 
 訓練和測試結果
 最佳模型訓練準確度100%
