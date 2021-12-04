@@ -1,8 +1,8 @@
-# AOI-of-automatic-product-inspection-system
+# AOI自動化檢測系統
 
-專案目標:
+計畫目標:
 
-建立一套自動化檢測產品設備，主控電腦端接收測試硬體(樹莓派)的螢幕資訊，藉由讀取螢幕資訊對測試硬體及測試機構發出執行命令，以達到無需人員作業即可完成產品檢測。
+建立一套自動化檢測產品設備，主控電腦端接收檢測電腦的螢幕資訊，藉由讀取螢幕資訊控制檢測電腦作業及對檢測設備發出執行命令，以達到無人化產品檢測作業。
 ![image](https://github.com/tddwso/AOI-of-automatic-product-inspection-system/blob/main/%E6%9E%B6%E6%A7%8B%E5%9C%96.png)
 
 
