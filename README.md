@@ -3,7 +3,6 @@
 計畫介紹:
 
 建立一套自動化檢測產品設備，主控電腦端接收檢測電腦的螢幕資訊，藉由讀取螢幕資訊控制檢測電腦作業及對檢測設備發出執行命令，以達到無人化產品檢測作業。
-![image](https://github.com/tddwso/AOI-of-automatic-product-inspection-system/blob/main/%E6%9E%B6%E6%A7%8B%E5%9C%96.png)
 
 
 ![image](https://github.com/tddwso/AOI-of-automatic-product-inspection-system/blob/main/%E6%A8%B9%E8%8E%93%E6%B4%BE%E5%9C%96.png)
