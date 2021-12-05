@@ -8,7 +8,7 @@
 
 主控電腦開始執行後，將影像擷取卡取得檢測畫面，經過程式辨識後發出命令，對檢測電腦執行當前的檢測步驟，並在特定的步驟執行檢測設備的動作，以實現無人化自動檢測產品作業。
 
-![image](https://github.com/tddwso/AOI-of-automatic-product-inspection-system/blob/main/%E6%A8%B9%E8%8E%93%E6%B4%BE%E5%9C%96.png)
+![image](https://github.com/tddwso/AOI-of-automatic-product-inspection-system/blob/main/%E6%9E%B6%E6%A7%8B%E5%9C%962.png)
 
 成果:
 
